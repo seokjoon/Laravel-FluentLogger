@@ -1,6 +1,6 @@
 {
   "name": "seokjoon/laravel-fluent-logger",
-  "description": "fluent logger for laravel and lumen",
+  "description": "fluent logger for laravel and lumen; for monolog 2.0.0",
   "minimum-stability": "stable",
   "license": "MIT",
   "keywords": [
